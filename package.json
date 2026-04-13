@@ -1,0 +1,12 @@
+{
+  "name": "polyphonic",
+  "version": "1.0.0",
+  "description": "음악 아카이빙 웹앱 — 영화 음악, 작곡가, 장르, 악기, 음악 개념을 기록하고 탐색합니다.",
+  "homepage": "https://[YOUR-GITHUB-ID].github.io/polyphonic",
+  "author": "",
+  "license": "MIT",
+  "keywords": ["music", "archiving", "film-music", "react", "pwa"],
+  "engines": {
+    "node": ">=16"
+  }
+}
